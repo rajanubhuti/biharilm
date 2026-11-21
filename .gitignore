@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Large data and model files stay out of git
+data/
+models/
+*.bin
+*.safetensors
+
+# Secrets
+.env
+
+.DS_Store

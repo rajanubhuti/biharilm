@@ -1,0 +1,7 @@
+datasets
+tiktoken
+transformers
+sentencepiece
+pandas
+matplotlib
+jupyter
